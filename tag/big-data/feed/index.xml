@@ -12,7 +12,7 @@
 	<atom:link href="/tag/big-data/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,7 +27,7 @@
 		<category><![CDATA[Datenschutz]]></category>
 		<category><![CDATA[Moral]]></category>
 
-		<guid isPermaLink="false">/?p=137</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=137</guid>
 		<description><![CDATA[(Quelle: http://i.kinja-img.com/gawker-media/image/upload/lvzm0afp8kik5dctxiya.jpg) Im Zusammenhang mit dieser weltweit durch alle Bereiche grassierende Sammelwut an Daten liegt es auf der Hand, dass hier ethische Herausforderungen vorprogrammiert sind. Da werden Persönlichkeitsrechte verletzt oder aus einem übertriebenen Sicherheitsbedürfnis nimmt man den Verlust des Datenschutzes in Kauf. Roberto Zicari und Andrej Zwitter haben folgende fünf Prinzipien einer Big Data-Moral formuliert: &#8230; <a href="/big-data-ethik-ii/" class="more-link"><span class="screen-reader-text">&#8222;Big Data-Ethik II&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -40,7 +40,7 @@
 		<category><![CDATA[Datenmissbrauch]]></category>
 		<category><![CDATA[Datenschutz]]></category>
 
-		<guid isPermaLink="false">/?p=132</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=132</guid>
 		<description><![CDATA[Dank den Informations- und Kommunikations-Technologien (IKT) sind wir ins „Zeitalter des Zettabyte“ eingetreten. Unsere Lebenswelten werden von einem Datentsunami überschwemmt. In diesem Zusammenhang wird oft von „Big Data“ gesprochen. Auch wenn dieser Begriff in aller Munde ist, bleibt es unklar, was damit wirklich gemeint ist (Floridi 2015, S. 32). Bei Big Data handelt es sich &#8230; <a href="/big-data-ethik-i/" class="more-link"><span class="screen-reader-text">&#8222;Big Data-Ethik I&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -53,7 +53,7 @@
 		<category><![CDATA[Definition]]></category>
 		<category><![CDATA[Informationsethik]]></category>
 
-		<guid isPermaLink="false">/?p=49</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=49</guid>
 		<description><![CDATA[Die Informationsethik untersucht die Moral der Informationsgesellschaft. Da sie sich auf einen abgrenzbaren Lebens- und Handlungsbereich beschränkt, gehört sie zur angewandten Ethik und wird als Bereichs- oder Spezialethik (wie beispielsweise Technikethik, Wirtschaftsethik etc.) bezeichnet. Der zu untersuchende Gegenstand ist die Moral aller, die Informations- und Kommunikationstechnologien (IKT) sowie neue Medien nutzen und/oder anbieten. Die empirische &#8230; <a href="/informationsethik/" class="more-link"><span class="screen-reader-text">&#8222;Informationsethik&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>

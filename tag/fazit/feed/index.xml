@@ -12,7 +12,7 @@
 	<atom:link href="/tag/fazit/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,7 +26,7 @@
 		<category><![CDATA[Fazit]]></category>
 		<category><![CDATA[Informationsethik]]></category>
 
-		<guid isPermaLink="false">/?p=147</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=147</guid>
 		<description><![CDATA[Während der letzten 3 Monate haben wir uns vertieft mit der Informationsethik auseinandergesetzt. Diese betrifft viele Aspekte der Informationsgesellschaft und wir konnten nur einige davon hier thematisieren. Grundsätzlich muss sich Informationsethik nicht gross von allgemeiner Ethik unterscheiden. Es geht dabei auch darum, Normensysteme aus Handlungsanweisungen aufzubauen. Die Bereiche einer solchen Moral decken aber Verhalten ab, welche &#8230; <a href="/fazit/" class="more-link"><span class="screen-reader-text">&#8222;Fazit&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>

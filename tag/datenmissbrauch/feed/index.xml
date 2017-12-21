@@ -12,7 +12,7 @@
 	<atom:link href="/tag/datenmissbrauch/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,7 +27,7 @@
 		<category><![CDATA[Datenmissbrauch]]></category>
 		<category><![CDATA[Datenschutz]]></category>
 
-		<guid isPermaLink="false">/?p=132</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=132</guid>
 		<description><![CDATA[Dank den Informations- und Kommunikations-Technologien (IKT) sind wir ins „Zeitalter des Zettabyte“ eingetreten. Unsere Lebenswelten werden von einem Datentsunami überschwemmt. In diesem Zusammenhang wird oft von „Big Data“ gesprochen. Auch wenn dieser Begriff in aller Munde ist, bleibt es unklar, was damit wirklich gemeint ist (Floridi 2015, S. 32). Bei Big Data handelt es sich &#8230; <a href="/big-data-ethik-i/" class="more-link"><span class="screen-reader-text">&#8222;Big Data-Ethik I&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>

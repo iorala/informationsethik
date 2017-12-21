@@ -12,7 +12,7 @@
 	<atom:link href="/tag/angewandte-ethik/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Moral]]></category>
 		<category><![CDATA[Philosophie]]></category>
 
-		<guid isPermaLink="false">/?p=40</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=40</guid>
 		<description><![CDATA[Was ist Ethik? Definition „Ethik“ „Ethik, ist die Wissenschaft von der Moral, d.h. diejenige Fachdisziplin, die sich damit befasst, welche Moralen es gibt, welche Begründungen sich für sie angeben lassen und welcher Logik ihre Begriffe, Aussagen und Argumentationen folgen.“ (Hübner 2014, s 17) Ethik ist ein Teilgebiet der Philosophie, welches Moral untersucht. Diese Bedeutung erschliesst &#8230; <a href="/ethik/" class="more-link"><span class="screen-reader-text">&#8222;Ethik&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>

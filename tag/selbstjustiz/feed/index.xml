@@ -12,7 +12,7 @@
 	<atom:link href="/tag/selbstjustiz/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,7 +26,7 @@
 		<category><![CDATA[Internet]]></category>
 		<category><![CDATA[Selbstjustiz]]></category>
 
-		<guid isPermaLink="false">/?p=124</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=124</guid>
 		<description><![CDATA[Im letzten Beitrag haben wir uns mit Selbstjustiz im Internet auseinandergesetzt. Wobei der Schwerpunkt vor allem auf doxxing und dem Umgang mit Persönlichkeitsrechten lag. Was heisst dies nun aus ethischer Sicht? Es sind dabei zwei Aspekte zu berücksichtigen: Einerseits die Moral der Selbstjustiz, andererseits die Rolle, welche sie bei der Durchsetzung der Moral im Internet &#8230; <a href="/selbstjustiz-im-internet-ii/" class="more-link"><span class="screen-reader-text">&#8222;Selbstjustiz im Internet II&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -40,7 +40,7 @@
 		<category><![CDATA[Onlinepranger]]></category>
 		<category><![CDATA[Selbstjustiz]]></category>
 
-		<guid isPermaLink="false">/?p=121</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=121</guid>
 		<description><![CDATA[Im letzten Beitrag haben wir erwähnt wie Anonymous die Seiten des Ku-Klux-Klans lahmlegte. Dies ist ein Beispiel für eine Form von Selbstjustiz, welche sich im Internet immer mehr verbreitet. Das Internet bietet Menschen eine einfache Möglichkeit etwas zu tun, wenn Menschen oder Organisationen unmoralisch handeln, ob sie dabei gegen Gesetze verstossen oder nicht. Beispiele reichen &#8230; <a href="/selbstjustiz-im-internet/" class="more-link"><span class="screen-reader-text">&#8222;Selbstjustiz im Internet I&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>

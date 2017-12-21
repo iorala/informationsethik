@@ -12,7 +12,7 @@
 	<atom:link href="/tag/soziale-medien/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Netzaktivismus]]></category>
 		<category><![CDATA[Soziale Medien]]></category>
 
-		<guid isPermaLink="false">/?p=108</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=108</guid>
 		<description><![CDATA[Anlass zu diesem Beitrag ist ein Artikel in der ZEIT vom 25. Mai 2016 über den Hacker Digita Shadow, der gegen den „Islamischen Staat“ kämpft. Der Autor des Artikels, Jens Tönnesmann, wollte den Hacker Digita Shadow persönlich treffen, wurde von diesem jedoch versetzt. Sogenannte Anti-IS-Hacker, die sich zum Kollektiv Anonymous zählen, setzen auf Distributed-Denial-of-Service-Attacken (DDoS). &#8230; <a href="/netzaktivisten-teil-1-kollaborateure-oder-freie-idealisten/" class="more-link"><span class="screen-reader-text">&#8222;Netzaktivisten I – Kollaborateure oder freie Idealisten?&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -43,7 +43,7 @@
 		<category><![CDATA[Soziale Medien]]></category>
 		<category><![CDATA[Trolling]]></category>
 
-		<guid isPermaLink="false">/?p=67</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=67</guid>
 		<description><![CDATA[Der Troll provoziert andere im Netz aus Spass, aus Langeweile, aus Rache oder zur puren Schikane. Trolling oder Cybertrolling manifestiert sich im Internet als alltäglicher Sadismus und Narzissmus. Wie im vorangegangenen Beitrag über die Anonymität im Netz bereits angetönt, haben soziale Medien für sich genaue Regeln aufgestellt, was erlaubt ist und was eben nicht. So &#8230; <a href="/anonymitaet-im-netz-teil-ii/" class="more-link"><span class="screen-reader-text">&#8222;Anonymität im Netz II&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -55,7 +55,7 @@
 		<category><![CDATA[Anonymität]]></category>
 		<category><![CDATA[Soziale Medien]]></category>
 
-		<guid isPermaLink="false">/?p=61</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=61</guid>
 		<description><![CDATA[Unter einer (vermeintlichen) Anonymität agieren und verhalten sich Menschen anders als in der realen Welt, in der sie anderen gegenüberstehen. Wie schnell und einfach ist ein Hasskommentar im Internet gepostet. Das getraut man sich eher, als der Zielperson direkt gegenüber zu stehen und ihr die Schmähtirade ins Gesicht zu schleudern. Im Nichtbekanntsein wähnt man sich &#8230; <a href="/anonymitaet-im-netz-teil-i/" class="more-link"><span class="screen-reader-text">&#8222;Anonymität im Netz I&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>

@@ -12,7 +12,7 @@
 	<atom:link href="/tag/ddos/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Netzaktivismus]]></category>
 		<category><![CDATA[Soziale Medien]]></category>
 
-		<guid isPermaLink="false">/?p=108</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=108</guid>
 		<description><![CDATA[Anlass zu diesem Beitrag ist ein Artikel in der ZEIT vom 25. Mai 2016 über den Hacker Digita Shadow, der gegen den „Islamischen Staat“ kämpft. Der Autor des Artikels, Jens Tönnesmann, wollte den Hacker Digita Shadow persönlich treffen, wurde von diesem jedoch versetzt. Sogenannte Anti-IS-Hacker, die sich zum Kollektiv Anonymous zählen, setzen auf Distributed-Denial-of-Service-Attacken (DDoS). &#8230; <a href="/netzaktivisten-teil-1-kollaborateure-oder-freie-idealisten/" class="more-link"><span class="screen-reader-text">&#8222;Netzaktivisten I – Kollaborateure oder freie Idealisten?&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>

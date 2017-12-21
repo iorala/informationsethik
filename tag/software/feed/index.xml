@@ -12,7 +12,7 @@
 	<atom:link href="/tag/software/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -30,7 +30,7 @@
 		<category><![CDATA[Moral]]></category>
 		<category><![CDATA[Software]]></category>
 
-		<guid isPermaLink="false">/?p=84</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=84</guid>
 		<description><![CDATA[Nachdem wir im letzten Beitrag zu Hackern ihre Moral vorgestellt haben, werden wir sie in diesem analysieren und einordnen. Um die Grundsätze umfassend zu verstehen, werden wir jeweils die deutschen Variante des Chaos Computer Clubs (2016) mit der englischen aus dem Buch von Levy (1994) vergleichen. Der Zugang zu Computern und allem, was einem zeigen &#8230; <a href="/die-moral-der-hacker-im-fokus-teil-1/" class="more-link"><span class="screen-reader-text">&#8222;Die Moral der Hacker im Fokus I&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>

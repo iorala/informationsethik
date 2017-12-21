@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Blog zu Informationsethik</description>
-	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Dec 2017 20:44:45 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,7 +26,7 @@
 		<category><![CDATA[Fazit]]></category>
 		<category><![CDATA[Informationsethik]]></category>
 
-		<guid isPermaLink="false">/?p=147</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=147</guid>
 		<description><![CDATA[Während der letzten 3 Monate haben wir uns vertieft mit der Informationsethik auseinandergesetzt. Diese betrifft viele Aspekte der Informationsgesellschaft und wir konnten nur einige davon hier thematisieren. Grundsätzlich muss sich Informationsethik nicht gross von allgemeiner Ethik unterscheiden. Es geht dabei auch darum, Normensysteme aus Handlungsanweisungen aufzubauen. Die Bereiche einer solchen Moral decken aber Verhalten ab, welche &#8230; <a href="/fazit/" class="more-link"><span class="screen-reader-text">&#8222;Fazit&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -39,7 +39,7 @@
 		<category><![CDATA[Datenschutz]]></category>
 		<category><![CDATA[Moral]]></category>
 
-		<guid isPermaLink="false">/?p=137</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=137</guid>
 		<description><![CDATA[(Quelle: http://i.kinja-img.com/gawker-media/image/upload/lvzm0afp8kik5dctxiya.jpg) Im Zusammenhang mit dieser weltweit durch alle Bereiche grassierende Sammelwut an Daten liegt es auf der Hand, dass hier ethische Herausforderungen vorprogrammiert sind. Da werden Persönlichkeitsrechte verletzt oder aus einem übertriebenen Sicherheitsbedürfnis nimmt man den Verlust des Datenschutzes in Kauf. Roberto Zicari und Andrej Zwitter haben folgende fünf Prinzipien einer Big Data-Moral formuliert: &#8230; <a href="/big-data-ethik-ii/" class="more-link"><span class="screen-reader-text">&#8222;Big Data-Ethik II&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -52,7 +52,7 @@
 		<category><![CDATA[Datenmissbrauch]]></category>
 		<category><![CDATA[Datenschutz]]></category>
 
-		<guid isPermaLink="false">/?p=132</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=132</guid>
 		<description><![CDATA[Dank den Informations- und Kommunikations-Technologien (IKT) sind wir ins „Zeitalter des Zettabyte“ eingetreten. Unsere Lebenswelten werden von einem Datentsunami überschwemmt. In diesem Zusammenhang wird oft von „Big Data“ gesprochen. Auch wenn dieser Begriff in aller Munde ist, bleibt es unklar, was damit wirklich gemeint ist (Floridi 2015, S. 32). Bei Big Data handelt es sich &#8230; <a href="/big-data-ethik-i/" class="more-link"><span class="screen-reader-text">&#8222;Big Data-Ethik I&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -64,7 +64,7 @@
 		<category><![CDATA[Internet]]></category>
 		<category><![CDATA[Selbstjustiz]]></category>
 
-		<guid isPermaLink="false">/?p=124</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=124</guid>
 		<description><![CDATA[Im letzten Beitrag haben wir uns mit Selbstjustiz im Internet auseinandergesetzt. Wobei der Schwerpunkt vor allem auf doxxing und dem Umgang mit Persönlichkeitsrechten lag. Was heisst dies nun aus ethischer Sicht? Es sind dabei zwei Aspekte zu berücksichtigen: Einerseits die Moral der Selbstjustiz, andererseits die Rolle, welche sie bei der Durchsetzung der Moral im Internet &#8230; <a href="/selbstjustiz-im-internet-ii/" class="more-link"><span class="screen-reader-text">&#8222;Selbstjustiz im Internet II&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -78,7 +78,7 @@
 		<category><![CDATA[Onlinepranger]]></category>
 		<category><![CDATA[Selbstjustiz]]></category>
 
-		<guid isPermaLink="false">/?p=121</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=121</guid>
 		<description><![CDATA[Im letzten Beitrag haben wir erwähnt wie Anonymous die Seiten des Ku-Klux-Klans lahmlegte. Dies ist ein Beispiel für eine Form von Selbstjustiz, welche sich im Internet immer mehr verbreitet. Das Internet bietet Menschen eine einfache Möglichkeit etwas zu tun, wenn Menschen oder Organisationen unmoralisch handeln, ob sie dabei gegen Gesetze verstossen oder nicht. Beispiele reichen &#8230; <a href="/selbstjustiz-im-internet/" class="more-link"><span class="screen-reader-text">&#8222;Selbstjustiz im Internet I&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -91,7 +91,7 @@
 		<category><![CDATA[Netzaktivismus]]></category>
 		<category><![CDATA[Überwachungsstaat]]></category>
 
-		<guid isPermaLink="false">/?p=114</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=114</guid>
 		<description><![CDATA[(Quelle: www.n-tv.de) Dass es Netzaktivismus jedweder politischen Couleur gibt, muss hier nicht näher ausgeführt werden. Das ist in der virtuellen Welt nicht anders als in der Realität. Wie werden die Handlungen der Aktivisten und Aktivistinnen bewertet? Sind die Attacken, wenn sie begründet werden, auch automatisch gerechtfertigt? (Schuldt, S. 37) Ist es moralisch vertretbar, wenn sich &#8230; <a href="/netzaktivisten-teil-2/" class="more-link"><span class="screen-reader-text">&#8222;Netzaktivisten II&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -106,7 +106,7 @@
 		<category><![CDATA[Netzaktivismus]]></category>
 		<category><![CDATA[Soziale Medien]]></category>
 
-		<guid isPermaLink="false">/?p=108</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=108</guid>
 		<description><![CDATA[Anlass zu diesem Beitrag ist ein Artikel in der ZEIT vom 25. Mai 2016 über den Hacker Digita Shadow, der gegen den „Islamischen Staat“ kämpft. Der Autor des Artikels, Jens Tönnesmann, wollte den Hacker Digita Shadow persönlich treffen, wurde von diesem jedoch versetzt. Sogenannte Anti-IS-Hacker, die sich zum Kollektiv Anonymous zählen, setzen auf Distributed-Denial-of-Service-Attacken (DDoS). &#8230; <a href="/netzaktivisten-teil-1-kollaborateure-oder-freie-idealisten/" class="more-link"><span class="screen-reader-text">&#8222;Netzaktivisten I – Kollaborateure oder freie Idealisten?&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -120,7 +120,7 @@
 		<category><![CDATA[Hacker]]></category>
 		<category><![CDATA[Informationsfreiheit]]></category>
 
-		<guid isPermaLink="false">/?p=88</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=88</guid>
 		<description><![CDATA[Nun kommen wir zum zweiten Teil unserer Analyse der Hacker Ethik. Liest bitte vorher den ersten Teil, sowie die Einführung zur Hacker-Moral. Wie in den vorherigen Beiträgen ist die Quelle des deutschen Textes der  Chaos Computer Club (2016), die des englischen Levy (1994) Misstraue Autoritäten – fördere Dezentralisierung Mistrust Authority Promote Decentralization. Dieser Grundsatz, welcher auf Englisch und Deutsch &#8230; <a href="/die-moral-der-hacker-im-fokus-teil-2/" class="more-link"><span class="screen-reader-text">&#8222;Die Moral der Hacker im Fokus II&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -136,7 +136,7 @@
 		<category><![CDATA[Moral]]></category>
 		<category><![CDATA[Software]]></category>
 
-		<guid isPermaLink="false">/?p=84</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=84</guid>
 		<description><![CDATA[Nachdem wir im letzten Beitrag zu Hackern ihre Moral vorgestellt haben, werden wir sie in diesem analysieren und einordnen. Um die Grundsätze umfassend zu verstehen, werden wir jeweils die deutschen Variante des Chaos Computer Clubs (2016) mit der englischen aus dem Buch von Levy (1994) vergleichen. Der Zugang zu Computern und allem, was einem zeigen &#8230; <a href="/die-moral-der-hacker-im-fokus-teil-1/" class="more-link"><span class="screen-reader-text">&#8222;Die Moral der Hacker im Fokus I&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 		<item>
@@ -153,7 +153,7 @@
 		<category><![CDATA[Moral]]></category>
 		<category><![CDATA[Opensource]]></category>
 
-		<guid isPermaLink="false">/?p=75</guid>
+		<guid isPermaLink="false">http://informationsethik.laroi.ch/?p=75</guid>
 		<description><![CDATA[Wenn wir Moral in der digitalen Welt untersuchen wollen, kommen wir nicht um eine Gruppe herum, welche diese überhaupt ermöglicht und stark geprägt hat: Den Hackern. Hacker sind doch diese Cyberkriminellen, die in IT Systeme einbrechen, um diese zu schädigen oder Daten zu stehlen, werden sich vielleicht einige von euch fragen. So wird der Begriff umgangssprachlich und &#8230; <a href="/pioniere-der-digitalen-moral-hacker/" class="more-link"><span class="screen-reader-text">&#8222;Pioniere der digitalen Moral: Hacker&#8220; </span>weiterlesen</a>]]></description>
 		</item>
 	</channel>
