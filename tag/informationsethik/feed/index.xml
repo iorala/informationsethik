@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Informationsethik &#8211; „Don&#039;t be evil“ &#8211; Ethik in der digitalen Revolution</title>
+	<atom:link href="/tag/informationsethik/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Blog zu Informationsethik</description>
+	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Fazit</title>
+		<link>/fazit/</link>
+		<pubDate>Fri, 24 Jun 2016 15:38:23 +0000</pubDate>
+		<dc:creator><![CDATA[andreas]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Fazit]]></category>
+		<category><![CDATA[Informationsethik]]></category>
+
+		<guid isPermaLink="false">/?p=147</guid>
+		<description><![CDATA[Während der letzten 3 Monate haben wir uns vertieft mit der Informationsethik auseinandergesetzt. Diese betrifft viele Aspekte der Informationsgesellschaft und wir konnten nur einige davon hier thematisieren. Grundsätzlich muss sich Informationsethik nicht gross von allgemeiner Ethik unterscheiden. Es geht dabei auch darum, Normensysteme aus Handlungsanweisungen aufzubauen. Die Bereiche einer solchen Moral decken aber Verhalten ab, welche &#8230; <a href="/fazit/" class="more-link"><span class="screen-reader-text">&#8222;Fazit&#8220; </span>weiterlesen</a>]]></description>
+		</item>
+		<item>
+		<title>Informationsethik</title>
+		<link>/informationsethik/</link>
+		<pubDate>Thu, 28 Apr 2016 17:59:19 +0000</pubDate>
+		<dc:creator><![CDATA[belinda]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Definition]]></category>
+		<category><![CDATA[Informationsethik]]></category>
+
+		<guid isPermaLink="false">/?p=49</guid>
+		<description><![CDATA[Die Informationsethik untersucht die Moral der Informationsgesellschaft. Da sie sich auf einen abgrenzbaren Lebens- und Handlungsbereich beschränkt, gehört sie zur angewandten Ethik und wird als Bereichs- oder Spezialethik (wie beispielsweise Technikethik, Wirtschaftsethik etc.) bezeichnet. Der zu untersuchende Gegenstand ist die Moral aller, die Informations- und Kommunikationstechnologien (IKT) sowie neue Medien nutzen und/oder anbieten. Die empirische &#8230; <a href="/informationsethik/" class="more-link"><span class="screen-reader-text">&#8222;Informationsethik&#8220; </span>weiterlesen</a>]]></description>
+		</item>
+	</channel>
+</rss>

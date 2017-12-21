@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Definition &#8211; „Don&#039;t be evil“ &#8211; Ethik in der digitalen Revolution</title>
+	<atom:link href="/tag/definition/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Blog zu Informationsethik</description>
+	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Informationsethik</title>
+		<link>/informationsethik/</link>
+		<pubDate>Thu, 28 Apr 2016 17:59:19 +0000</pubDate>
+		<dc:creator><![CDATA[belinda]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Definition]]></category>
+		<category><![CDATA[Informationsethik]]></category>
+
+		<guid isPermaLink="false">/?p=49</guid>
+		<description><![CDATA[Die Informationsethik untersucht die Moral der Informationsgesellschaft. Da sie sich auf einen abgrenzbaren Lebens- und Handlungsbereich beschränkt, gehört sie zur angewandten Ethik und wird als Bereichs- oder Spezialethik (wie beispielsweise Technikethik, Wirtschaftsethik etc.) bezeichnet. Der zu untersuchende Gegenstand ist die Moral aller, die Informations- und Kommunikationstechnologien (IKT) sowie neue Medien nutzen und/oder anbieten. Die empirische &#8230; <a href="/informationsethik/" class="more-link"><span class="screen-reader-text">&#8222;Informationsethik&#8220; </span>weiterlesen</a>]]></description>
+		</item>
+		<item>
+		<title>Ethik</title>
+		<link>/ethik/</link>
+		<pubDate>Sat, 23 Apr 2016 22:26:36 +0000</pubDate>
+		<dc:creator><![CDATA[andreas]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[angewandte Ethik]]></category>
+		<category><![CDATA[Definition]]></category>
+		<category><![CDATA[Ethik]]></category>
+		<category><![CDATA[Moral]]></category>
+		<category><![CDATA[Philosophie]]></category>
+
+		<guid isPermaLink="false">/?p=40</guid>
+		<description><![CDATA[Was ist Ethik? Definition „Ethik“ „Ethik, ist die Wissenschaft von der Moral, d.h. diejenige Fachdisziplin, die sich damit befasst, welche Moralen es gibt, welche Begründungen sich für sie angeben lassen und welcher Logik ihre Begriffe, Aussagen und Argumentationen folgen.“ (Hübner 2014, s 17) Ethik ist ein Teilgebiet der Philosophie, welches Moral untersucht. Diese Bedeutung erschliesst &#8230; <a href="/ethik/" class="more-link"><span class="screen-reader-text">&#8222;Ethik&#8220; </span>weiterlesen</a>]]></description>
+		</item>
+		<item>
+		<title>Moral</title>
+		<link>/moral/</link>
+		<pubDate>Sat, 23 Apr 2016 22:26:20 +0000</pubDate>
+		<dc:creator><![CDATA[andreas]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Definition]]></category>
+		<category><![CDATA[Moral]]></category>
+
+		<guid isPermaLink="false">/?p=36</guid>
+		<description><![CDATA[Bevor wir uns mit der Informationsethik beschäftigen, müssen wir erst einige Begriffe klären: Was ist Ethik? Was ist Moral? Beide Begriffe werden regelmässig verwendet, vor allem in der Alltagssprache werden sie aber häufig nicht klar voneinander abgegrenzt: So wird gerne von Ethik gesprochen, wenn Moral gemeint ist. In der Wissenschaft haben die beiden Begriffe aber &#8230; <a href="/moral/" class="more-link"><span class="screen-reader-text">&#8222;Moral&#8220; </span>weiterlesen</a>]]></description>
+		</item>
+	</channel>
+</rss>

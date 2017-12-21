@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Datenmissbrauch &#8211; „Don&#039;t be evil“ &#8211; Ethik in der digitalen Revolution</title>
+	<atom:link href="/tag/datenmissbrauch/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Blog zu Informationsethik</description>
+	<lastBuildDate>Wed, 20 Dec 2017 23:49:55 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>Big Data-Ethik I</title>
+		<link>/big-data-ethik-i/</link>
+		<pubDate>Fri, 24 Jun 2016 04:52:51 +0000</pubDate>
+		<dc:creator><![CDATA[belinda]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Datenmissbrauch]]></category>
+		<category><![CDATA[Datenschutz]]></category>
+
+		<guid isPermaLink="false">/?p=132</guid>
+		<description><![CDATA[Dank den Informations- und Kommunikations-Technologien (IKT) sind wir ins „Zeitalter des Zettabyte“ eingetreten. Unsere Lebenswelten werden von einem Datentsunami überschwemmt. In diesem Zusammenhang wird oft von „Big Data“ gesprochen. Auch wenn dieser Begriff in aller Munde ist, bleibt es unklar, was damit wirklich gemeint ist (Floridi 2015, S. 32). Bei Big Data handelt es sich &#8230; <a href="/big-data-ethik-i/" class="more-link"><span class="screen-reader-text">&#8222;Big Data-Ethik I&#8220; </span>weiterlesen</a>]]></description>
+		</item>
+	</channel>
+</rss>
